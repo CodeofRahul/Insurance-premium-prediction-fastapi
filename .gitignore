@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+venv/
+env/
+*.env
+.idea/
+.DS_Store
+/mlapi
+mlapi
+..mlapi
+.mlapi
