@@ -1,4 +1,15 @@
-# FastApi-playground
+# Insurance Premium Prediction API 🚀
+
+A FastAPI-based machine learning API that predicts insurance premium categories based on user input such as age, BMI, city tier, and occupation.
+
+## Features
+
+- FastAPI backend
+- Pydantic input validation with computed fields
+- Pickle-based model prediction
+- JSON API response
+
+
 A FastAPI lab for prototyping ideas, testing features, and deepening API knowledge.
 
 ![Fastapi 8](https://github.com/user-attachments/assets/cf28c33f-eba2-4562-a1f8-ce02e09c1afa)
